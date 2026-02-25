@@ -52,8 +52,8 @@ The following models were implemented and compared:
 
 - Logistic Regression
 - Random Forest
-- XGBoost (if used)
-- Additional baseline models (if applicable)
+- Decision Tree
+- Additional baseline models
 
 ### 4. Model Evaluation
 
